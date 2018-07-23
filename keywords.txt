@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Thread	            KEYWORD1
+ThreadController	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# Specific of Thread
+runned	    KEYWORD2
+setInterval	KEYWORD2
+shouldRun	KEYWORD2
+setRun	    KEYWORD2
+run	        KEYWORD2
+start       KEYWORD2
+
+# Specific of ThreadController
+add     KEYWORD2
+remove	KEYWORD2
+clear	KEYWORD2
+size	KEYWORD2
+get     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
